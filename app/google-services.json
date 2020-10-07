@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690051169574",
+    "firebase_url": "https://studyapp-4fb78.firebaseio.com",
+    "project_id": "studyapp-4fb78",
+    "storage_bucket": "studyapp-4fb78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690051169574:android:258b190c308f1a051095e7",
+        "android_client_info": {
+          "package_name": "com.example.neaybypeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690051169574-qpoj7konpld5t5sreab0psjgai3a682n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcBdcTC7kGIRQ-gLUukzCpjioQSqFbeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690051169574-qpoj7konpld5t5sreab0psjgai3a682n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
